@@ -1,8 +1,14 @@
 <resources>
     <string name="app_name">test</string>
-    <string name="question_text">Canbarra is the Capital of Australia?</string>
+    <string name="question_sonicTwo">Hidden Palace Zone\'s music was supposed to be used for a cutscene.</string>
+    <string name="question_marble">A sequel to Marble Madness was created, but never released.</string>
+    <string name="question_pole">Namco made a Pole Position game where Pac-Man is driving the car.</string>
+    <string name="question_space">Sega made a Space Harrier game where you play as Opa-Opa.</string>
+    <string name="question_pokemon">Pokemon Pinball includes music from the Japanese and English show.</string>
+    <string name="question_bootleg">There are many bootleg NES games that call themselves sequels to the original three Super Mario Bros. games.\nThese numbered sequels go up to 17.</string>
     <string name="true_button">True</string>
     <string name="false_button">False</string>
+    <string name="next_button">Next</string>
     <string name="correct_toast">Correct!</string>
     <string name="incorrect_toast">Incorrect!</string>
 </resources>
