@@ -10,7 +10,6 @@ public class Question {
         mAnswerTrue = answerTrue;
     }
 
-
     public int getTextResId() {
         return mTextResId;
     }
